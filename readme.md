@@ -1,5 +1,2 @@
-# INFO
+Dell R710 (and other 11th gen) IPMI scripts to manage temps and fan speed. Turn that jet into a purr.
 
-This is my personal scripts. Feel free to modify and improve.
-
-They are provided "as is", and I take no responsibility if they break something on your end. 
